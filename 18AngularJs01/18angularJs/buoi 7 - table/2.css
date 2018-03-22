@@ -1,0 +1,59 @@
+td{
+	border: 1px solid black; 
+	padding: 15px;
+	width: 70%;
+}
+
+td:first-child{
+	width: 30%;
+}
+
+table{
+	width: 100%;
+	margin-top: 10px;
+}
+
+.text{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.content{
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	background-color: #2a2a54;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.content h2{
+	margin-top: 10px;
+}
+
+.big-table{
+	border: 1px solid black;
+	margin: 10px;
+}
+
+.table-1, .table-3, .table-5, .table-7, .table-9{
+	background-color: #66bcc721;
+	margin: 20px;
+}
+
+.table-2, .table-4, .table-6, .table-8{
+	margin: 20px;
+}
+
+.td-1{
+	border-bottom: 1px solid #8080804f;
+}
+
+.table-4 p, .table-5 p, .table-6 p, .table-7 p, .table-8 p, .table-9 p{
+	text-transform: uppercase;
+
+}
+
+.file{
+	padding-left: 20px;
+}

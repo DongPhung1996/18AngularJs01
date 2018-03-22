@@ -1,0 +1,116 @@
+.top{
+	height: 30px;
+	color: #b9b2b2;
+	border-bottom: 1px solid #e8e2e2;
+	margin-bottom: 35px;
+}
+
+.top p{
+	padding-top: 4px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.menu .list{
+	text-align: center;
+	padding-top: 15px;	
+}
+
+.menu .list a{
+	color: inherit;
+	text-transform: uppercase;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.menu .list a:hover{
+	color: blue;
+}
+
+h1{
+	 color: #1ba8ff;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-bottom: 40px;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 48px;
+}
+
+
+
+h4{
+	background-color: #1ba8ff;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.info-dn h4{
+    background-color: #1ba8ff;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 9px;
+    margin: 0 0 20px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.checkbox{
+	margin-bottom: 10px;
+}
+
+.button{
+	margin-bottom: 30px;
+	margin-top: 30px;	
+}
+
+.button button{
+	background-color: #1ba8ff;
+	color: #fff;
+}
+
+.footer{
+    background-color: #5d5d5d;
+    padding: 35px 0;
+    font-weight: 300;
+ } 
+
+ .footer .logo p,
+ .footer .info ul li,
+ .footer .info ul li a{
+ 	color: white;
+ 	list-style: none;
+ }
+
+.footer .logo img{
+	padding-right: 20px;
+}
+
+.footer .logo p{
+	text-transform: uppercase;
+	font-size: 16px;
+	padding-left: 50px
+}
+
+.footer .info{
+	padding-top: 20px;
+	border-left: 1px solid #fff;
+}
+
+.footer ul{
+	padding-left: 0px;
+}
+
+.footer .info ul li a:hover{
+	text-decoration: none;
+	color: blue;
+}
+
+span{
+	color: red;
+}
+

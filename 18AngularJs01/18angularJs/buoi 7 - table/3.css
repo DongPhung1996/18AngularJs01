@@ -1,0 +1,46 @@
+
+.container{
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+table{
+	width: 100%;
+
+}
+
+td{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	margin: 40px;
+	font-weight: bold;
+}
+
+.dong-1{
+	text-align: center;
+	color: #fff;
+	background-color: #0f0f69eb;
+	text-transform: uppercase;
+}
+
+.dong-2{
+	text-align: center;
+}
+
+.dong-2 .cot-4{
+	text-align: left;
+}
+
+#button{
+	margin: 20px;
+}
+
+p{
+	margin: 0;
+}
+
